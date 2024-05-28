@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BM Logistic SRL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #0059b3;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #0059b3;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .services {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .services h2 {
+            color: #0059b3;
+        }
+        .contact {
+            background-color: #0059b3;
+            color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .contact p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BM Logistic SRL</h1>
+        <p>Your partner in logistics and customs services</p>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We offer a wide range of customs services including customs clearance, permit and license management, tariff classification advice, and sourcing new suppliers in the USA, Europe, and Asia. We provide logistical support anywhere in the world and have strategic partners in freight forwarding and international transportation. Additionally, we offer support in marketing and social media, including website development, logo design, and network marketing.</p>
+        <div class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Customs Clearance</li>
+                <li>Permit and License Management</li>
+                <li>Tariff Classification Advice</li>
+                <li>Supplier Sourcing (USA, Europe, Asia)</li>
+                <li>Logistical Support Worldwide</li>
+                <li>Freight Forwarding</li>
+                <li>International Transportation</li>
+                <li>Marketing and Social Media Support</li>
+                <li>Website Development</li>
+                <li>Logo Design</li>
+                <li>Network Marketing</li>
+            </ul>
+        </div>
+    </div>
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>Address: AV. MANKO KAPAC NRO 281 GALERIA MUNDIAL PISO 1 LOCAL 1</p>
+        <p>Phone: +591 62274100</p>
+        <p>Email: <a href="mailto:mabelmurillocondori@gmail.com">mabelmurillocondori@gmail.com</a></p>
+    </div>
+</body>
+</html>
